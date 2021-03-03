@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/src/assets/logo-stroke.svg
+/src/assets/wave-01.svg
